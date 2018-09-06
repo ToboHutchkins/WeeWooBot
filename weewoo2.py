@@ -16,7 +16,7 @@ async def on_ready():
 @bot.event
 async def on_message(message):
     channel = message.channel
-    if message.content.startswith('!weewoo'):
+    if message.content.startswith('!JimCarrey'):
         await bot.send_message(channel, 'WEEWOO\nWEEWOO\nWEEWOO\nWEEWOO\nWEEWOO\nWEEWOO\nWEEWOO\nWEEWOO\nWEEWOO\nWEEWOO\nWEEWOO\nWEEWOO\nWEEWOO\nWEEWOO\nWEEWOO\nWEEWOO\nWEEWOO\nWEEWOO\nWEEWOO')
         await bot.send_message(channel, 'WEEWOO\nWEEWOO\nWEEWOO\nWEEWOO\nWEEWOO\nWEEWOO\nWEEWOO\nWEEWOO\nWEEWOO\nWEEWOO\nWEEWOO\nWEEWOO\nWEEWOO\nWEEWOO\nWEEWOO\nWEEWOO\nWEEWOO\nWEEWOO\nWEEWOO')
         await bot.send_message(channel, 'WEEWOO\nWEEWOO\nWEEWOO\nWEEWOO\nWEEWOO\nWEEWOO\nWEEWOO\nWEEWOO\nWEEWOO\nWEEWOO\nWEEWOO\nWEEWOO\nWEEWOO\nWEEWOO\nWEEWOO\nWEEWOO\nWEEWOO\nWEEWOO\nWEEWOO')
